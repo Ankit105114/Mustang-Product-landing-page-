@@ -11,9 +11,3 @@ An immersive landing page featuring the iconic 1969 Ford Mustang with cinematic 
 - **Responsive Design**: Optimized for all screen sizes
 - **Smooth Transitions**: CSS animations for overlay fade-out
 - **Automatic Redirect**: Seamless page transition after video completion
-
-## Installation ⚙️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mustang-experience.git
